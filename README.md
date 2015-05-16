@@ -1,0 +1,3 @@
+# Asterisk-Scripts
+
+Asterisk Scriptsammlung 
